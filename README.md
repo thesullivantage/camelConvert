@@ -1,6 +1,6 @@
 # Camel Convert Script
 
-#### To use with Git Bash (Or other Linux kernel)
+#### To use with Git Bash (Or other Linux kernel) (__*Must have Python Installed*__)
 
 1. Copy the camelConvert.py script to wherever is convenient (hopefully somewhere near your home directory.
 	
