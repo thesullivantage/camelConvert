@@ -6,13 +6,18 @@
 	
 	- A Helpful note is that your home directory can be found with: 
 	
-		cd
-		and then typing:
-		ls
-		in Linux
+        cd
+        # and then typing:
+        ls
+        # in Linux
 	
-1. Create a .bashrc in home directory, if one does not yet exist. 
-2. Add the following to that file (in VI or other editor): 
+1. Create a .bashrc in home directory, if one does not yet exist.
+
+        cd # automatically takes you to home directory
+        touch .bashrc
+        # this file configures certain startup properties of your terminal
+
+3. Add the following to that file (in VI or other editor): 
 
         alias camel='python {insert absolute path of camelConvert.py script}'
 	
