@@ -3,10 +3,6 @@
 Camel Case Conversion for Command Line (Python)
 Copyright 2021 Jack Sullivan. All rights reserved.
 
-SETUP: 
-1. Source this command in your .bashrc
-2. Type camel [./filename] in your command line after restarting bash (or sourcing .bashrc immediately)
-
 """
 
 import numpy as np
