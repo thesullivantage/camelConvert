@@ -11,4 +11,7 @@
 1. Create a .bashrc in home directory, if one does not yet exist.
 2. Add the following to that file (in VI or other editor): 
         alias camel='python {insert absolute path of camelConvert.py script}'
-3. Restart Linux terminal, and try typing in camel to the terminal and pressing enter. Cheers!
+
+3. Type camel [./filename] in your command line after arestarting bash (or sourcing .bashrc immediately)
+
+4. Enjoy your filenames without spaces! Cheers!
