@@ -21,8 +21,12 @@ alias camel='python {insert absolute path of camelConvert.py script}'
 4. Type:
 
 ```shell
-camel [./filename] 
+camel -sing [./filename] 
 ```
 in your command line after restarting bash (or sourcing .bashrc immediately)
 
 5. Enjoy your filenames without spaces! Cheers!
+
+--- 
+
+See batch mode feature (commented out)
